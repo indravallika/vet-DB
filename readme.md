@@ -30,10 +30,3 @@ This project contains a relational database schema for managing clinic and veter
 
 ### Veterinary Clinic
 - **Animals**, **Species**, **Owners**, **Vets**, **Visits**, **Specializations**.
-
-## License
-Open-source under MIT License.
-
-## Contact
-For contributions or queries, feel free to reach out.
-
