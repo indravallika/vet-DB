@@ -1,4 +1,4 @@
-# Clinic & Veterinary Database
+# Clinic & Veterinary Database Development Project
 
 ## Overview
 This project contains a relational database schema for managing clinic and veterinary records. It includes ER diagrams, SQL schema, sample data, and queries.
